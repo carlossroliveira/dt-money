@@ -1,6 +1,8 @@
 export default {
   title: 'light',
 
+  white: '#fff',
+
   'gray-100': '#E1E1E6',
   'gray-300': '#C4C4CC',
   'gray-400': '#8D8D99',
@@ -14,8 +16,7 @@ export default {
   'green-500': '#00875F',
   'green-700': '#015F43',
 
+  'red-300': '#F75A68',
   'red-500': '#AB222E',
   'red-700': '#7A1921',
-
-  'yellow-500': '#FBA94C',
-}
+} as const
