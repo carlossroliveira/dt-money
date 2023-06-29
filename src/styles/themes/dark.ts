@@ -1,26 +1,21 @@
 export default {
   title: 'dark',
 
-  GREY_SCALE: {
-    100: 'gainsboro',
-    300: 'lightgray',
-    400: 'darkgray',
-    600: 'dimgray',
-    700: 'gray',
-    800: 'black',
-    900: 'black',
-  },
+  'gray-100': '#E1E1E6',
+  'gray-300': '#C4C4CC',
+  'gray-400': '#8D8D99',
+  'gray-500': '#7C7C8A',
+  'gray-600': '#323238',
+  'gray-700': '#29292E',
+  'gray-800': '#202024',
+  'gray-900': '#121214',
 
-  GREEN_SCALE: {
-    300: 'mediumseagreen',
-    500: 'sea green',
-  },
+  'green-300': '#00B37E',
+  'green-500': '#00875F',
+  'green-700': '#015F43',
 
-  WHITE_SCALE: {
-    light: 'white',
-  },
+  'red-500': '#AB222E',
+  'red-700': '#7A1921',
 
-  RED_SCALE: {
-    500: 'salmon',
-  },
+  'yellow-500': '#FBA94C',
 }

@@ -11,5 +11,5 @@ export const ContainerSC = styled.section`
     'sidebar'
     'footer';
 
-  color: ${(props) => props.theme.GREEN_SCALE[300]};
+  color: ${(props) => props.theme['gray-300']};
 `
