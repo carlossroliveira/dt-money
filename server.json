@@ -39,6 +39,22 @@
       "type": "income",
       "createdAt": "2023-07-02T01:00:06.826Z",
       "id": 5
+    },
+    {
+      "description": "Computador",
+      "price": 1000,
+      "category": "Tecnologia",
+      "type": "outcome",
+      "createdAt": "2023-07-02T01:05:06.512Z",
+      "id": 6
+    },
+    {
+      "description": "Mouse",
+      "price": 500,
+      "category": "Tecnologia",
+      "type": "outcome",
+      "createdAt": "2023-07-02T01:06:48.563Z",
+      "id": 7
     }
   ]
 }
